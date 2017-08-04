@@ -1,8 +1,68 @@
 body {
-    background-image: url("https://drive.google.com/file/d/0B1p7hyDS9t0pTmh3bHlzVEtqUlk/view");
-    background-position: center;
+    background-color: #FBF4E2
     background-size: cover;
-    height: 100%;
+    background-position: center;
+    margin: 0;
+}
+
+html {
+    margin: 0;
+}
+
+#main {
+    background-image: url("long-backpack-image.png");
+    position: relative;
+    height: 3000px;
+    padding-top: 0px;
+}
+
+#gorm {
+    position: relative;
+    padding-top: 1rem;
+    margin:auto;
+    width: 50%
+}
+
+h1 {
+    margin: 0 auto;
+    padding-top: 4rem;
     width: 100%;
-    
+    text-align: center;
+    font-size: 200px;
+    font-family: advent;
+    color: black;
+}
+
+#call {
+    padding-top: 37rem;
+    font-size: 150px;
+}
+
+#story {
+    font-size: 150px;
+    padding-top: 27rem;
+}
+
+h2 {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: advent;
+}
+
+
+
+p {
+    position: relative;
+    width: 50%;
+    text-align: center;
+    font-family: advent;
+    font-size: 40px;
+    margin: auto;
+}
+
+@advent {
+    font-family: advent;
+    src: url("advent-Bd2.otf");
 }
