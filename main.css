@@ -43,6 +43,11 @@ h1 {
     padding-top: 27rem;
 }
 
+#end {
+    font-size: 30px;
+    padding-top: 25rem;
+}
+
 h2 {
     margin: auto;
     width: 100%;
@@ -62,7 +67,9 @@ p {
     margin: auto;
 }
 
+
+
 @advent {
     font-family: advent;
-    src: url("advent-Bd2.otf");
+    src: url("https://fonts2u.com/advent.font");
 }
