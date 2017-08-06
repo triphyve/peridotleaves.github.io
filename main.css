@@ -29,7 +29,7 @@ h1 {
     width: 100%;
     text-align: center;
     font-size: 200px;
-    font-family: advent;
+    font-family: Helvetica;
     color: black;
 }
 
@@ -53,7 +53,7 @@ h2 {
     width: 100%;
     text-align: center;
     font-size: 40px;
-    font-family: advent;
+    font-family: Helvetica;
 }
 
 
@@ -62,7 +62,7 @@ p {
     position: relative;
     width: 50%;
     text-align: center;
-    font-family: advent;
+    font-family: Helvetica;
     font-size: 40px;
     margin: auto;
 }
@@ -70,6 +70,6 @@ p {
 
 
 @advent {
-    font-family: advent;
+    font-family: Helvetica;
     src: url("http://themes.googleusercontent.com/static/fonts/adventpro/v1/rT9jpj7pBpZV6AmssbZKky3USBnSvpkopQaUR-2r7iU.ttf");
 }
